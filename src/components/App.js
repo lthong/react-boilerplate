@@ -2,7 +2,10 @@ import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
 import routerPath from '@/libraries/routerPath';
 import skyImg from '@/assets/start-sky.jpg';
+
+import 'normalize.css';
 import '@/stylesheet/app.scss';
+
 // import { asyncFunEx } from '@/utils/helper';
 // asyncFunEx();
 
